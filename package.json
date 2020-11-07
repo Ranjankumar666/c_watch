@@ -1,13 +1,13 @@
 {
-  "name": "c-watcher",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@ranjan_k.2000/c_watch",
+  "version": "0.0.0",
+  "description": "Basic .c file watcher",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"No test specified\""
   },
   "keywords": [],
-  "author": "",
+  "author": "ranjan kumar",
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.0",

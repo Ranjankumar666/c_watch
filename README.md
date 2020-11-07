@@ -1,11 +1,11 @@
-##C_watch is a simple node package to compile C files
+## C_watch is a simple node package to compile C files
 
-##Installation
+## Installation
 
 yarn global add c-watcher or 
 npm i -g c-watcher
 
 
-##Usage
+## Usage
 
-c_watch filename [outputFilename]
+c_watch #### filename [#### outputFilename]
