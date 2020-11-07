@@ -1,6 +1,6 @@
 {
   "name": "@ranjan_k.2000/c_watch",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Basic .c file watcher",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,4 @@
     "access": "public",
     "registry": "https://registry.npmjs.org"
   }
-
 }
